@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>371a6169-cddf-4f4f-a05c-922c28c829ef</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Class07.py</StartupFile>
+    <StartupFile>Class12.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Class07.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class12.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="GameGraphics.py" />
